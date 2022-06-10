@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 import numpy as np
 import pickle
-from xgboost import XGBRegressor
+
 
 html_temp = """
 <div style="background-color:tomato;padding:1.5px">
